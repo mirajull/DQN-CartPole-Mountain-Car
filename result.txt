@@ -1,0 +1,5 @@
+Best trial config: {'seed': 0, 'lr': 0.0009255571080677726, 'gamma': 0.99, 'current_eps': 1.0, 'min_eps': 0.01, 'eps_decay': 0.99, 'target_update': 10, 'batch_size': 256, 'memory_size': 10000, 'env_name': 'MountainCar-v0', 'max_episode_length': 200, 'max_episodes': 300, 'device': device(type='cpu'), 'avg_goal': -120, 'max_reports': 5, 'report': 100}
+Best trial final validation performance: -160.22
+Episode: 108244
+Average Score: -118.888889
+
